@@ -6,7 +6,7 @@ Clean Dark theme for uLauncher.
 
  - `mkdir -p ~/.config/ulauncher/user-themes`
  - `cd ~/.config/ulauncher/user-themes`
- - `git clone git@github.com:kalenpw/transparent-adwaita.git`
+ - `git clone git@github.com:pokhrelashok/ulauncher-clean-dark-theme`
  - Open ulauncher settings and select Clean Dark
 
 
